@@ -1,0 +1,4 @@
+E:\LTI\c#\day 1\firstapplication\basic example\obj\Debug\basic example.vbprojAssemblyReference.cache
+E:\LTI\c#\day 1\firstapplication\basic example\obj\Debug\basic_example.Resources.resources
+E:\LTI\c#\day 1\firstapplication\basic example\obj\Debug\basic example.vbproj.GenerateResource.cache
+E:\LTI\c#\day 1\firstapplication\basic example\obj\Debug\basic example.vbproj.CoreCompileInputs.cache
